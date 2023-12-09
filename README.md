@@ -6,7 +6,7 @@
 - 📫 How to reach me ? by mailing at krishbaisoya.it2020@gmail.com
 
 I've rich experience in Computer Vision (CNNs) & Squential Data (LSTMs)\
-Currently I  use PyTorch for most of my projects (from the past ~6 months).\
+Currently I  use PyTorch for most of my projects (from the July 2021, class 8th).\
 Earlier i was using Tensorflow for my projects
 
 But, I've also worked in Angular, Ionic and Capacitor.
